@@ -1,0 +1,3 @@
+[submodule "my-blog-client"]
+	path = my-blog-client
+	url = git@github.com:jazelly/my-blog-client.git
